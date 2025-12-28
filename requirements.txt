@@ -1,3 +1,4 @@
+#Paquetes a instalar
 numpy
 scikit-image
 opencv-python
